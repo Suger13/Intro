@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Suger13 and  i'm from thailand, i'm a musician and working on clerical at law company and being verymuch interest in programing and want to learn a new thing.
-and i'm learning for now and find some oppotunity and experience for real work in tech career.
-- 👀 I’m interested in backend, sofeware dev
+- 👋 Hi, I’m @Suger13 and  i'm from thailand, musician and working on clerical at law company and being verymuch interest in programing and eager to learn a new thing.
+i'm learning by my self for now and want to find some oppotunity and experience for real work in tech career.
+- 👀 I’m interested in backend, software dev
 - 🌱 I’m currently learning HTML, python, javascript, c++, framework, API
 - 📫 How to reach me facebook.com/muteki.aun, github.com/Suger13
 
